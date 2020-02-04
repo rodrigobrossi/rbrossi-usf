@@ -1,5 +1,5 @@
 
-## This is Prof. Rodrigo Brossi rbrossi-usf
+## This is Prof. Rodrigo Brossi
 
 The purpose of this page is to share documents and practical examples of the subjects taught by me. In some cases examples
 from other disciplines such as Data Structure, C / C ++, Java and Computer Graphics, areas of my interest.
@@ -14,7 +14,7 @@ This page is constantly evolving and therefore can be changed at any time.
 
 ## Database.
 
-## Esta é landing page do Prof. Rodrigo Brossi  rbrossi-usf
+## Esta é landing page do Prof. Rodrigo Brossi
 
 O objetivo desta página  compartilhar documentos e exemplos práticos das disciplinas ministradas por mim. Em alguns casos exemplos
 de outras disciplinas como Estrutura de Dados, C/C++, Java e Computação Gráfica, áreas de meu interessse. 
